@@ -1,0 +1,8 @@
+Map Key
+
+g - Ground
+w - Water
+b - Building
+m - Mountain
+e - enemy
+p - player
