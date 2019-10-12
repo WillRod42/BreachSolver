@@ -26,4 +26,8 @@ public class MapManager {
          System.out.println("\n");
       }
    }
+   
+   public void updateTile(int x, int y, String newTile) {
+      map[7 - x][y] = newTile;
+   }
 }
